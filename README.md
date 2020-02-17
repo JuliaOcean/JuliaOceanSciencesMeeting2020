@@ -27,7 +27,7 @@ The list below is rather tentative & expected to evolve depending (e.g. on who i
 - Plots.jl , PyPlot.jl, ClimatePlots.jl, GeoMakie.jl, ... (volunteer ?)
 - NetCDF.jl, NCDataSets.jl, NCTiles.jl, zarr.jl, DataFrames.jl, ... (volunteer ?)
 - MeshArrays.jl, IndividualDisplacements.jl, ArgoData.jl, ... (@gaelforget)
-- AIBEX.jl, WorldOceanAtlasTools.jl, OceanographyCruises.jl, ... (@briochemc)
+- AIBECS.jl, WorldOceanAtlasTools.jl, OceanographyCruises.jl, ... (@briochemc)
 - divand.jl, physocean.jl, EMODnet-Chemistry, ... (@Alexander-Barth , @jmbeckers, and / or @ctroupin?)
 - oceananigans.jl (@ali-ramadan or @glwagner ?)
 - geophysicalflows.jl (@navidcy or @glwagner ?)
