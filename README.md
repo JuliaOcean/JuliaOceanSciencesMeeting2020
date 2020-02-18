@@ -5,7 +5,7 @@
 - workshop title : Julia (language) users and tools for oceanography
 - time : Tuesday, 18 February 2020 @ 12:45 - 13:45
 - location : Marriott Marquis - Point Loma, L1
-- weblink : stay tuned ...
+- weblink : https://bluejeans.com/675644738/2261
 
 ## Workshop description
 
