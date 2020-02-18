@@ -25,10 +25,10 @@ If you would like to e.g. to advertise some of your julia packages or notebook f
 The list below is rather tentative & expected to evolve depending (e.g. on who is at OSM this week) but might include
 
 - Plots.jl , PyPlot.jl, ClimatePlots.jl, GeoMakie.jl, ... (volunteer ?)
-- NetCDF.jl, NCDataSets.jl, NCTiles.jl, zarr.jl, DataFrames.jl, ... (volunteer ?)
+- NetCDF.jl, NCTiles.jl, zarr.jl, DataFrames.jl, ... (volunteer ?)
 - MeshArrays.jl, IndividualDisplacements.jl, ArgoData.jl, ... (@gaelforget)
 - AIBECS.jl, WorldOceanAtlasTools.jl, OceanographyCruises.jl, ... (@briochemc)
-- divand.jl, physocean.jl, EMODnet-Chemistry, ... (volunteer ?)
+- NCDatasets.jl, DIVAnd.jl, PhysOcean.jl (@Alexander-Barth, to be confirmed)
 - oceananigans.jl (@ali-ramadan or @glwagner ?)
 - geophysicalflows.jl (@navidcy or @glwagner ?)
 - ShallowWaters.jl (@milankl or proxy ?)
