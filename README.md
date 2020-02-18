@@ -1,4 +1,12 @@
-# JuliaOceanSciencesMeeting2020
+# Julia Ocean Sciences Meeting 2020 workshop
+
+Practical information :
+
+https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/92105
+
+- workshop title: Julia (language) users and tools for oceanography
+- time: Tuesday, 18 February 2020 @ 12:45 - 13:45
+- location: Marriott Marquis - Point Loma, L1
 
 ## Workshop description
 
