@@ -1,15 +1,11 @@
 # Julia Ocean Sciences Meeting 2020 workshop
 
-**Practical information : see** https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/92105
+**Post OSM20 update :**
 
-- workshop title : Julia (language) users and tools for oceanography
-- time : Tuesday, 18 February 2020 @ 12:45 - 13:45
-- location : Marriott Marquis - Point Loma, L1
-- weblink : https://bluejeans.com/675644738/2261
-
-## Workshop description
-
-_below is the original workshop proposal_
+- **video recording of the workshop session** is [available here](https://youtu.be/xOeB-uwoMI0)
+- [workshop](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/92105) title : Julia (language) users and tools for oceanography
+- time : **took place on** Tuesday, 18 February 2020 @ 12:45 - 13:45
+- abstract:
 
 There has been a visible uptick in oceanography and climate applications of the Julia language since it reached the v1.0 milestone last year. The growth and appeal for this language were recently highlighted by Nature magazine. It seems very timely to offer this rapidly growing community of open source developers and users an opportunity to meet in person, advertise their recent efforts, and engage with the oceanographic community at large. A tentative agenda for this workshop would include: a brief general presentation of Julia, a survey of existing efforts, a hackathon-type session with both experienced and new users interacting, and open-ended discussion time.
 
